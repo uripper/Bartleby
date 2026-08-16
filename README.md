@@ -24,6 +24,21 @@ Bartleby is built as a Tauri application with a Rust Backend and a TypeScript Fr
 
 ## Screenshots
 
+### Today Screen 
+Shows planned books for the day and allowing the user to update and edit these sessions.
+![Today Screen](Bartleby_Today.png)
+
+### Library Screen
+Shows books that you've added for Bartleby to schedule.
+![Library Screen](Bartleby_Library.png)
+
+### Schedule Screen
+Shows the calendar to show when each book is scheduled, included its projected finish.
+![Schedule Screen](Bartleby_Schedule.png)
+
+### Stats Screen
+Shows various statistics, like estimated books read this year and minutes read so far
+![Stats Screen](Bartleby_Stats.png)
 
 ## Current Status
 
